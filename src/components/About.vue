@@ -1,5 +1,5 @@
 <template>
-    <div>
+    <div class="text-white text-center mt-5">
         <h1>About</h1>
         <p>
             Lorem ipsum dolor sit amet consectetur, adipisicing elit. In

@@ -1,0 +1,92 @@
+[
+    {
+      "id": 1,
+      "model": "911 Carrera",
+      "year": "2023",
+      "cv": "379",
+      "price": "96,300",
+      "image": "https://files.porsche.com/filestore/image/multimedia/none/992-c2s-modelimage-sideshot/model/fb392e88-9df3-11ec-80eb-005056bbdc38/porsche-model.png",
+      "doors": "3"
+    },
+    {
+      "id": 2,
+      "model": "Cayenne",
+      "year": "2023",
+      "cv": "335",
+      "price": "67,500",
+      "image": "https://files.porsche.com/filestore/image/multimedia/none/e3-2nd-cayenne-modelimage-sideshot/model/b14f4d31-e03d-11ed-8101-005056bbdc38/porsche-model.png",
+      "doors": "5"
+    },
+    {
+      "id": 3,
+      "model": "Panamera",
+      "year": "2023",
+      "cv": "325",
+      "price": "88,550",
+      "image": "https://files.porsche.com/filestore/image/multimedia/none/971-g2-2nd-v6-modelimage-sideshot/model/dc348883-d31f-11ea-80cc-005056bbdc38/porsche-model.png",
+      "doors": "5"
+    },
+    {
+      "id": 4,
+      "model": "Macan",
+      "year": "2023",
+      "cv": "248",
+      "price": "52,100",
+      "image": "https://files.porsche.com/filestore/image/multimedia/none/pa3-r4-modelimage-sideshot/model/373fd3ae-de41-11eb-80d9-005056bbdc38/porsche-model.png",
+      "doors": "5"
+    },
+    {
+      "id": 5,
+      "model": "Taycan",
+      "year": "2023",
+      "cv": "402",
+      "price": "79,900",
+      "image": "https://files.porsche.com/filestore/image/multimedia/none/j1-taycan-tu-modelimage-sideshot/model/3f246d76-1f25-11ee-8103-005056bbdc38/porsche-model.png",
+      "doors": "5"
+    },
+    {
+      "id": 6,
+      "model": "718 Boxster",
+      "year": "2023",
+      "cv": "294",
+      "price": "62,000",
+      "image": "https://files.porsche.com/filestore/image/multimedia/none/982-718-bo-modelimage-sideshot/model/7f271e19-fee1-11ed-8103-005056bbdc38/porsche-model.png",
+      "doors": "3"
+    },
+    {
+      "id": 7,
+      "model": "718 Cayman",
+      "year": "2023",
+      "cv": "294",
+      "price": "61,500",
+      "image": "https://files.porsche.com/filestore/image/multimedia/none/982-718-cayman-gt4rs-modelimage-sideshot/model/ca8f53c1-f3b7-11ed-8103-005056bbdc38/porsche-model.png",
+      "doors": "3"
+    },
+    {
+      "id": 8,
+      "model": "911 Targa",
+      "year": "2023",
+      "cv": "379",
+      "price": "119,300",
+      "image": "https://files.porsche.com/filestore/image/multimedia/none/992-ta4-gts-modelimage-sideshot/model/fc3d2747-d31e-11eb-80d9-005056bbdc38/porsche-model.png",
+      "doors": "3"
+    },
+    {
+      "id": 9,
+      "model": "911 Turbo",
+      "year": "2023",
+      "cv": "572",
+      "price": "170,800",
+      "image": "https://files.porsche.com/filestore/image/multimedia/none/911-tu-modelimage-sideshot/model/fe21bac9-833c-11eb-80d3-005056bbdc38/porsche-model.png",
+      "doors": "3"
+    },
+    {
+      "id": 10,
+      "model": "911 GT3 RS",
+      "year": "2023",
+      "cv": "520",
+      "price": "187,500",
+      "image": "https://files.porsche.com/filestore/image/multimedia/none/992-gt3-rs-modelimage-sideshot/model/cfbb8ed3-1a15-11ed-80f5-005056bbdc38/porsche-model.png",
+      "doors": "3"
+    }
+]
